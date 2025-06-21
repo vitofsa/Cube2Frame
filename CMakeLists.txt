@@ -6,6 +6,6 @@ find_package( OpenCV REQUIRED)
 
 include_directories( ${OpenCV_INCLUDE_DIRS} )
 
-add_executable( main main.cpp )
+add_executable( cube cube.cpp )
 
-target_link_libraries( main ${OpenCV_LIBS} )
+target_link_libraries( cube ${OpenCV_LIBS} )
