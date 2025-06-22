@@ -1,6 +1,3 @@
-#ifndef RUBIKS_COLOR_MAP
-#define RUBIKS_COLOR_MAP
+#pragma once
 
-cv::Mat rubiksColorMap();
-
-#endif
+cv::Mat RubiksColorMap();

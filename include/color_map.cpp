@@ -1,5 +1,6 @@
 #include <vector>
 #include <opencv2/core.hpp>
+
 #include "color_map.hpp"
 
 // Create the rubik's cube colors matrix from 0 - 256
@@ -12,7 +13,7 @@ const std::vector<cv::Vec3b> kRubiksColors = {
   {255, 255, 255}, // White
 };
 
-cv::Mat rubiksColorMap()  {
+cv::Mat RubiksColorMap()  {
   cv::Mat Colormap(256, 1, CV_8UC3);
   
   const int kColorDivisions = 256 / kRubiksColors.size();
