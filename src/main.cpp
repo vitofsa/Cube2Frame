@@ -4,8 +4,8 @@
 #include <opencv2/core.hpp>
 #include <opencv2/imgproc.hpp>
 #include <opencv2/highgui.hpp>
-#include "include/cube_mosaic.hpp"
-#include "include/color_map.hpp"
+#include "cube_mosaic.hpp"
+#include "color_map.hpp"
 
 bool CheckArguments(int* argc, char** argv);
 
