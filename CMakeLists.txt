@@ -6,6 +6,6 @@ find_package( OpenCV REQUIRED)
 
 include_directories( ${OpenCV_INCLUDE_DIRS} )
 
-add_executable( cube cube.cpp include/color_map.cpp include/cube_mosaic.cpp )
+add_executable( cube2frame cube.cpp include/color_map.cpp include/cube_mosaic.cpp )
  
-target_link_libraries( cube ${OpenCV_LIBS})
+target_link_libraries( cube2frame ${OpenCV_LIBS})
