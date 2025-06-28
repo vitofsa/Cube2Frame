@@ -1,6 +1,6 @@
 <div align="center">
 
-![](LOGO_LINK)
+![](https://github.com/vitofsa/Cube2Frame/blob/main/.github/cube2frame-logo.png)
 
 ![Language](https://img.shields.io/badge/Coded_in-C++-blue)
 [![Build](https://img.shields.io/badge/Built_with-CMake-red)](https://cmake.org/ "CMake")
@@ -13,19 +13,19 @@ Cube2Frame is a command-line cube mosaic generator for Rubik's cube enthusiast. 
 
 <div>
 
-![](SMALL_MOSAIC)
+![](https://github.com/vitofsa/Cube2Frame/blob/main/.github/mosaics/mosaic_example1.png)
 <br>[3 x 3] [Normal]
 </div>
 
 <div>
 
-![](MOSAIC_NORMAL)
+![](https://github.com/vitofsa/Cube2Frame/blob/main/.github/mosaics/mosaic_example2.png)
 <br>[100 x 100] [Normal]
 </div>
 
 <div>
 
-![](MOSAIC_PASTEL)
+![](https://github.com/vitofsa/Cube2Frame/blob/main/.github/mosaics/mosaic_example3.png)
 <br>[100 x 100] [Pastel]
 </div>
 </div>
@@ -72,8 +72,8 @@ Here you can customize the output image that you will have! 🤩
 ## 🎨 Color Palettes 
 | Argument | Palette Demonstration |
 |----------|-----------------------|
-|normal    | ![](NORMAL_PALETTE) | 
-|pastel    | ![](PASTEL_PALETTE) | 
+|normal    | ![](https://github.com/vitofsa/Cube2Frame/blob/main/.github/palettes/normal_palette.png) | 
+|pastel    | ![](https://github.com/vitofsa/Cube2Frame/blob/main/.github/palettes/pastel_palette.png) | 
 
 ## 👷‍♂️ Work in Progress
 This is a small work in progress project to challenge my C++ knowledge. What new feature can I implement in the future? Let me know! 😉
