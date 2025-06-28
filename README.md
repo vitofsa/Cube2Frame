@@ -13,7 +13,10 @@ Cube2Frame is a command-line cube mosaic generator for Rubik's cube enthusiast. 
   ![](https://github.com/vitofsa/Cube2Frame/blob/main/.github/mosaics/mosaic_example1.png)
   <img src="https://github.com/vitofsa/Cube2Frame/blob/main/.github/mosaics/mosaic_example2.png?raw=true" width="250px">
   <img src="https://github.com/vitofsa/Cube2Frame/blob/main/.github/mosaics/mosaic_example3.png?raw=true" width="300px">
-  <img src="https://github.com/vitofsa/Cube2Frame/blob/main/.github/mosaics/mosaic_example4.png?raw=true" width="300px">
+
+  ![](https://github.com/vitofsa/Cube2Frame/blob/main/.github/mosaics/mosaic_example4.png)
+  <img src="https://github.com/vitofsa/Cube2Frame/blob/main/.github/mosaics/mosaic_example5.png?raw=true" width="250px">
+  <img src="https://github.com/vitofsa/Cube2Frame/blob/main/.github/mosaics/mosaic_example6.png?raw=true" width="300px">
 
 # ⚙️ Building the Project
 You'll need [Git](https://git-scm.com/), [CMake (4.0+)](https://cmake.org/) and [OpenCV (4.11.0+)](https://opencv.org/) (which implies that you use the same compiler of its binary on CMake) to build and run this repository. On your command-line do:
