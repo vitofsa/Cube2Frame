@@ -19,13 +19,13 @@ Cube2Frame is a command-line cube mosaic generator for Rubik's cube enthusiast. 
 
 <div>
 
-![](https://github.com/vitofsa/Cube2Frame/blob/main/.github/mosaics/mosaic_example2.png)
+<img src="https://github.com/vitofsa/Cube2Frame/blob/main/.github/mosaics/mosaic_example2.png?raw=true" width="255px">
 <br>[100 x 100] [Normal]
 </div>
 
 <div>
 
-![](https://github.com/vitofsa/Cube2Frame/blob/main/.github/mosaics/mosaic_example3.png)
+<img src="https://github.com/vitofsa/Cube2Frame/blob/main/.github/mosaics/mosaic_example3.png?raw=true" width="255px">
 <br>[100 x 100] [Pastel]
 </div>
 </div>
